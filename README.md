@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traangvu&label=Profile%20views&color=0e75b6&style=flat" alt="traangvu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traangvu" alt="traangvu" /></a> </p>
-
 - 🔭 I’m currently working on [The Minimal Notepad app](https://github.com/Minimal-Alexi/Minimal-Notepad-Client)
 
 - 🌱 I’m currently learning **Design patterns in Java, AWS services, CI/CD and DevOps tools, such as Jenkins, Docker**
