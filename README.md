@@ -26,8 +26,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/trang-vu-3007/](https://www.linkedin.com/in/trang-vu-3007/)
 
-- Fun fact: **I once saw a rainbow but couldn’t find any rain. Still unsure if I hallucinated, or if it was just cloud-powered magic—AWS-certified, of course 😄**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trang-vu-3007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trang-vu-3007/" height="30" width="40" /></a>
